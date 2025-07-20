@@ -6,3 +6,4 @@ while x>=2;
      break 
 if x>= 5; 
    print("someone need to found his dad")
+print("i found it hard ")
