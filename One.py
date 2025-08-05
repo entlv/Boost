@@ -8,3 +8,5 @@ if x>= 5;
    print("someone need to found his dad")
 print("i found it hard ")
 print("it's make me some smile 😊")
+print("it's make me some smile 😊")
+print("it's make me some smile 😊")
